@@ -1,3 +1,5 @@
+This is a fork of writegood-mode that supports highlighting cliched phrases. 
+
 * Writegood Mode
 
 This is a minor mode to aid in finding common writing problems.  [[http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/][Matt
